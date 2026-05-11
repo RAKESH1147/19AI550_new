@@ -29,7 +29,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Script : MonoBehaviour
+public class seekScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public Transform target;  // The object to seek
